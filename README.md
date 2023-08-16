@@ -38,3 +38,5 @@ The dataset was shared with students of Utiva. it consists of data from January 
 
 ### Data Preparation / Cleaning:
 The dataset was shared with students of Utiva. it consists of data from January to May 2020 showing sales of the TMNT store.
+![](Revenue_Data_Cleaning.png)
+hh
